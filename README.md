@@ -20,7 +20,7 @@ This project is a **Sorting Algorithm Visualizer** created using [your tech stac
 Ensure the following are installed on your system:
 
 - Python 3.x
-- [Any other dependencies, e.g., Pygame library]
+- Pygame library
 
 - ## Bubble sort 
 
@@ -43,7 +43,4 @@ Ensure the following are installed on your system:
 - 
 ![heapsort](https://github.com/user-attachments/assets/e62632fc-5a80-41b6-8dbe-dd8b02d9f521)
 
-
-
-- 
 
